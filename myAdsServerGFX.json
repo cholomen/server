@@ -1,15 +1,13 @@
 {
-  "JsonData": {
+  "adscontrol" : {
 
-
-    "AdsController": 
-      {
-        "NetworkAds": "facebook",
-        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
-       
-      },
-    }
-  }
+    "NetworkAds": "facebook",
+    "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+    "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
     
-   
+    
+  }
+
+
+
+}
