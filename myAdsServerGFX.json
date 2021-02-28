@@ -1,11 +1,13 @@
 {
-  "scertGfxAds" : {
+  "adscontrol" : {
 
+    "NetworkAds": "admob",
+    "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+    "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
 
-    "BannerGFX" : "ca-app-pub-3940256099942544/6300978111" ,
-    "InterstitialGFX" : "ca-app-pub-3940256099942544/1033173712"
-
-
+    "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+    "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+    
   }
 
 
